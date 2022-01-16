@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4.5",
+    "title": "CALAMITY QUELLER",
+    "text": "Uchiha Sasuke",
+    "img": "assets/000.jpg",
+    "audio": "1.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "GANYU ARCHON",
+    "text": "Full Hazard Mode",
+    "img": "assets/ganyu.png",
+    "audio": "2.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "GANYU ARCHON",
+    "text": "Full Hazard Mode",
+    "img": "assets/nation_devided.png",
+    "audio": "2.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "GANYU ARCHON",
+    "text": "Full Hazard Mode",
+    "img": "assets/front.jpg",
+    "audio": "2.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "GANYU ARCHON",
+    "text": "Full Hazard Mode",
+    "img": "assets/beach.jpg",
+    "audio": "2.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title": "GANYU ARCHON",
+    "text": "Full Hazard Mode",
+    "img": "assets/111.jpg",
+    "audio": "2.mp3"
+  }
+]
